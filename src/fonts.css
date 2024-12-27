@@ -1,0 +1,37 @@
+/* src/fonts.css */
+
+/* Import the font files */
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('./fonts/Poppins-Regular.ttf') format('truetype');
+    /* Add additional font formats if necessary */
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('./fonts/Poppins-Medium.ttf') format('truetype');
+    /* Add additional font formats if necessary */
+}
+@font-face {
+    font-family: 'Poppins-SemiBold';
+    src: url('./fonts/Poppins-SemiBold.ttf') format('truetype');
+    /* Add additional font formats if necessary */
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('./fonts/Poppins-Bold.ttf') format('truetype');
+    /* Add additional font formats if necessary */
+}
+
+
+@font-face {
+    font-family: 'Inter-Medium';
+    src: url('./fonts/Inter-Medium.ttf') format('truetype');
+    /* Add additional font formats if necessary */  
+}
+
+
+
+/* Apply the font to specific elements */
+
